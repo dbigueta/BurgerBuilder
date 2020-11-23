@@ -4,7 +4,7 @@ import classes from './SideDrawer.module.css'
 import Logo from '../../Logo/Logo'
 import NavigationItems from '../NavigationItems/NavigationItems'
 import Backdrop from '../../UI/Backdrop/Backdrop'
-import Aux from '../../../hoc/Auxx'
+import Aux from '../../../hoc/Auxx/Auxx'
 
 export default function SideDrawer(props) {
 
